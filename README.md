@@ -1,4 +1,5 @@
-# 🤖 Autonome Mobile Systeme – Projekt „Aufmerksamer Roboter“
+# 🤖 Autonome Mobile Systeme 
+# Projekt „Aufmerksamer Roboter“
 
 ## Vorwort
 
