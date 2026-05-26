@@ -1,6 +1,6 @@
 # 🤖 Autonome Mobile Systeme – Projekt „Aufmerksamer Roboter“
 
-# Vorwort
+## Vorwort
 
 Diese Dokumentation beschreibt die Projektabschlussarbeit im Modul **Autonome Mobile Systeme**.  
 Ziel des Projekts ist die Entwicklung eines intelligenten Robotersystems, das ein definiertes Objekt im Kamerabild erkennt und dieses zuverlässig im Zentrum des Sichtfeldes hält.
