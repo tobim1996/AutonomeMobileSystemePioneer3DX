@@ -12,13 +12,9 @@
 **Semester:** 5. Semester  
 **Studiengang:** Bachelor of Science – Informatik  
 
-**Teammitglieder:**  
-- Tobias Madaj (20200958)  
-- Fabian Claus (20130004)  
-
-**E-Mail:**  
-- tobiasm@thbrandenburg.de  
-- claus@thbrandenburg.de  
+**Teammitglieder:** 
+- Tobias Madaj 
+- Fabian Claus 
 
 ---
 
@@ -38,7 +34,7 @@
 
 ## 1. Analyse der Aufgabenstellung
 
-Es soll ein Software-System entwickelt werden, bei dem der Roboter (Sunny) ein Objekt, z. B. einen roten Ball, zuverlässig im Bildzentrum hält.  
+Es soll ein Software-System entwickelt werden, bei dem der Roboter ein Objekt, z. B. einen roten Ball, zuverlässig im Bildzentrum hält.  
 Dies erfolgt durch Steuerung der Kamera sowie Rotation des Roboters.
 
 Der Roboter soll dem Objekt **aufmerksam folgen**, ohne aktiv darauf zuzufahren. Stattdessen bleibt er stationär und richtet sich dynamisch nach dem Objekt aus.
