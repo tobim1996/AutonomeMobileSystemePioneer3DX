@@ -1,15 +1,14 @@
 # 🤖 Autonome Mobile Systeme – Projekt „Aufmerksamer Roboter“
 
-## 🎓 Projektdaten
+# Vorwort
 
-**Fach:** Autonome Mobile Systeme  
-**Semester:** 5. Semester  
-**Studiengang:** Bachelor of Science – Informatik  
+Diese Dokumentation beschreibt die Projektabschlussarbeit im Modul **Autonome Mobile Systeme**.  
+Ziel des Projekts ist die Entwicklung eines intelligenten Robotersystems, das ein definiertes Objekt im Kamerabild erkennt und dieses zuverlässig im Zentrum des Sichtfeldes hält.
 
-**Teammitglieder:** 
-- Tobias Madaj 
-- Fabian Claus 
+Dabei kombiniert das System Methoden der **Bildverarbeitung (OpenCV)** mit der **Robotersteuerung (Aria Framework)**.  
+Der Roboter soll nicht aktiv auf das Objekt zufahren, sondern dieses lediglich beobachten und seine Ausrichtung entsprechend anpassen.
 
+Im Mittelpunkt steht die Umsetzung eines stabilen Zusammenspiels aus Softwarearchitektur, Echtzeitverarbeitung und Roboterbewegung.
 
 ## 📚 Inhaltsverzeichnis
 
