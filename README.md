@@ -4,8 +4,6 @@
 ### Projektabschlussarbeit  
 ## „Aufmerksamer Roboter“
 
----
-
 ## 🎓 Projektdaten
 
 **Fach:** Autonome Mobile Systeme  
@@ -16,7 +14,6 @@
 - Tobias Madaj 
 - Fabian Claus 
 
----
 
 ## 📚 Inhaltsverzeichnis
 
@@ -30,7 +27,6 @@
 8. Vollständig kommentierter Quelltext  
 9. Literaturverzeichnis  
 
----
 
 ## 1. Analyse der Aufgabenstellung
 
@@ -41,7 +37,6 @@ Der Roboter soll dem Objekt **aufmerksam folgen**, ohne aktiv darauf zuzufahren.
 
 Das Ziel ist es, das Objekt dauerhaft im Zentrum des Kamerabildes zu halten.
 
----
 
 ## 2. Anforderungen & Randbedingungen
 
@@ -58,7 +53,6 @@ Weitere Anforderungen:
 - Keine hektischen Bewegungen  
 - Eigene individuelle Lösung pro Team  
 
----
 
 ## 3. Diskussion von Lösungsvarianten
 
@@ -74,7 +68,6 @@ Weitere Anforderungen:
 - Ergebnis: ca. 6× höhere Bildrate  
 - Fazit: Beste Lösung für schwache Hardware  
 
----
 
 ## 4. Konzeption und Lösungsideen
 
@@ -95,7 +88,6 @@ Das System besteht aus zwei Hauptkomponenten:
 - Formenerkennung
 - Positionsberechnung
 
----
 
 ## 5. Implementierung
 
@@ -118,7 +110,6 @@ Grundlage: ActionBV-Beispielprojekt
 - HoughCircles zur Objekterkennung  
 - Größter erkannter Kreis wird verwendet  
 
----
 
 ## 6. Einschätzung der Lösung & Probleme
 
@@ -132,7 +123,6 @@ Grundlage: ActionBV-Beispielprojekt
 - Verzögerte Reaktion des Roboters  
 - Teilweise nicht zeitgerechte Steuerung  
 
----
 
 ## 7. Zusammenfassung
 
@@ -143,13 +133,11 @@ Die Kombination aus Bildverarbeitung und Bewegungssteuerung ermöglicht ein stab
 
 Trotz Performanceproblemen wurde das Projekt erfolgreich umgesetzt.
 
----
 
 ## 8. Vollständig kommentierter Quelltext
 
 Die vollständigen Quelltexte befinden sich im Projektverzeichnis (Anhang).
 
----
 
 ## 9. Literaturverzeichnis
 
