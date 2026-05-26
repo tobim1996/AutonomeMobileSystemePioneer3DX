@@ -1,6 +1,4 @@
-# 🤖 Autonome Mobile Systeme – Pioneer 3DX
-
-## 📄 Projektabschlussarbeit - Dokumentation „Aufmerksamer Roboter“
+# 🤖 Autonome Mobile Systeme – Projekt „Aufmerksamer Roboter“
 
 ## 🎓 Projektdaten
 
